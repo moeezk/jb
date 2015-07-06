@@ -1,0 +1,9 @@
+Origin: Moeez's Repo
+Label: Moeez's Repo
+Suite: stable
+Version: 1.0
+Codename: moeezsrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Moeez's Repo
+MD5Sum:
